@@ -1,7 +1,6 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "12345678",
     "type": "microsoft"
   },
 
