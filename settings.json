@@ -21,7 +21,6 @@
     "auto-auth": {
       "enabled": false,
     },
-
     "anti-afk": {
       "enabled": true,
       "sneak": true,
